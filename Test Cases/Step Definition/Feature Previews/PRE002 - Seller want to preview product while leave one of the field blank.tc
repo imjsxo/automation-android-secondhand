@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PRE002 - Seller want to preview product while leave one of the field blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb7c2d8b-3839-42da-8afc-078a25076551</testCaseGuid>
+</TestCaseEntity>
